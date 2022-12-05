@@ -1,6 +1,9 @@
 body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
@@ -13,14 +16,14 @@ p {
     font-style: italic;
 }
 
-.hero-image {
+/*.hero-image {
     background-image: url("images/background.jpg");
     height: 1000px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    
-}
+}*/
 
 
 .hero-text {
