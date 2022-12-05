@@ -1,9 +1,7 @@
 body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-image: url("images/background.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: darkkhaki;
 }
 
 h1 {
