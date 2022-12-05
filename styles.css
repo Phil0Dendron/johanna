@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(129, 0, 129);
+    background-color: linear-gradient(to bottom right, lightpink,purple);
 }
 
 h1 {
